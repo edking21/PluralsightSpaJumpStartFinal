@@ -1,5 +1,5 @@
 SPA JumpStart
 ============
 
-Source code for the SPA JumpStart Pluralsight course at http://jpapa.me/spajsps
+Source code cloned from SPA JumpStart Pluralsight course at http://jpapa.me/spajsps
 
